@@ -1,0 +1,7 @@
+install 
+1 - npm init 
+2 - npm add express cors body-parser mongoose multer nodemon passport passport-local
+3 - npm add jsonwebtoken
+
+
+video Last Pass : 17,42
